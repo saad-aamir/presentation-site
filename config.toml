@@ -1,6 +1,5 @@
 
 baseURL ="https://saad-aamir.github.io/presentation-site"
-publishDir="docs"
 
 languageCode = "en-us"
 title = "OS Assignment"
