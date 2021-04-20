@@ -1,5 +1,5 @@
 
-baseURL ="http://example.org/"
+baseURL ="https://saad-aamir.github.io/presentation-site"
 publishDir="docs"
 
 languageCode = "en-us"
