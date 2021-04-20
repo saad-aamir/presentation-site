@@ -1,5 +1,7 @@
 
 baseURL ="http://example.org/"
+publishDir="docs"
+
 languageCode = "en-us"
 title = "OS Assignment"
 theme="ananke"
