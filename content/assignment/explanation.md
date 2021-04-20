@@ -160,9 +160,9 @@ This error occured while emulating the image. It was **resolved** by closing the
 ## OUTPUT
 
 
-{{< figure src="/lol.png" alt="here" title="">}}
+![output](https://raw.githubusercontent.com/saad-aamir/presentation-site/master/static/lol.png)
 
 __*Zoomed*__,
 
-{{< figure src="/zoom.png" alt="here" title="">}}
+![output](https://raw.githubusercontent.com/saad-aamir/presentation-site/master/static/zoom.png)
 
