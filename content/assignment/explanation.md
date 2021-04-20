@@ -152,7 +152,7 @@ qemu-system-x86_64 -cdrom dist/x86_64/kernel.iso
 
 This error was resolved by rebooting the PC and going into bios setup to turn virualizatin seting "ON".
 
-* {{< figure src="/images/error.jpeg" alt="" title="">}}
+![output](https://raw.githubusercontent.com/saad-aamir/presentation-site/master/static/images/error.jpeg)
 
 This error occured while emulating the image. It was **resolved** by closing the qemu window.
 
